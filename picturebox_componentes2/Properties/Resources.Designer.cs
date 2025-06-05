@@ -63,6 +63,26 @@ namespace picturebox_componentes2.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap bohr {
+            get {
+                object obj = ResourceManager.GetObject("bohr", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Dalton {
+            get {
+                object obj = ResourceManager.GetObject("Dalton", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap hidrogenio {
             get {
                 object obj = ResourceManager.GetObject("hidrogenio", resourceCulture);
@@ -116,6 +136,26 @@ namespace picturebox_componentes2.Properties {
         internal static System.Drawing.Bitmap rocha {
             get {
                 object obj = ResourceManager.GetObject("rocha", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap rutherford {
+            get {
+                object obj = ResourceManager.GetObject("rutherford", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Thomson {
+            get {
+                object obj = ResourceManager.GetObject("Thomson", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

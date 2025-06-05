@@ -26,7 +26,11 @@ namespace picturebox_componentes2
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Application.Exit();
+            if(MessageBox.Show("Deseja sair do programa?", "Sair", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
+            {
+                Application.Exit();
+            }
+            
         }
 
         private void checkBoxToolStripMenuItem_Click(object sender, EventArgs e)
@@ -34,6 +38,13 @@ namespace picturebox_componentes2
             this.Hide();
             Form3 f3 = new Form3();
             f3.Show();
+        }
+
+        private void listBOXToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Form4 f4 = new Form4();
+            f4.Show();
         }
     }
 }

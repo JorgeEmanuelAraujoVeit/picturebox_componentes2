@@ -70,6 +70,7 @@
             this.listBOXToolStripMenuItem.Name = "listBOXToolStripMenuItem";
             this.listBOXToolStripMenuItem.Size = new System.Drawing.Size(137, 50);
             this.listBOXToolStripMenuItem.Text = "ListBox";
+            this.listBOXToolStripMenuItem.Click += new System.EventHandler(this.listBOXToolStripMenuItem_Click);
             // 
             // comboBoxToolStripMenuItem
             // 
