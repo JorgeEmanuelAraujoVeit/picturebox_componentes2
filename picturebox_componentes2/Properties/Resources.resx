@@ -124,28 +124,37 @@
   <data name="hidrogenio" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\hidrogenio.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="rutherford" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\rutherford.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Dalton" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Dalton.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="Nacl" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Nacl.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="metamorfica" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\metamorfica.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="bohr" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\bohr.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="oxigenio" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\oxigenio.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Thomson" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Thomson.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="igneasss" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\igneasss.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="bohr" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\bohr.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="lewishidrogenio" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\lewishidrogenio.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Dalton" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Dalton.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="naclestrutara" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\naclestrutara.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="rutherford" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\rutherford.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Thomson" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Thomson.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="h2o" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\h2o.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

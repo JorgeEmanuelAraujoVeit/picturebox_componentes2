@@ -83,6 +83,16 @@ namespace picturebox_componentes2.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap h2o {
+            get {
+                object obj = ResourceManager.GetObject("h2o", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap hidrogenio {
             get {
                 object obj = ResourceManager.GetObject("hidrogenio", resourceCulture);
@@ -103,6 +113,16 @@ namespace picturebox_componentes2.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap lewishidrogenio {
+            get {
+                object obj = ResourceManager.GetObject("lewishidrogenio", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap metamorfica {
             get {
                 object obj = ResourceManager.GetObject("metamorfica", resourceCulture);
@@ -116,6 +136,16 @@ namespace picturebox_componentes2.Properties {
         internal static System.Drawing.Bitmap Nacl {
             get {
                 object obj = ResourceManager.GetObject("Nacl", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap naclestrutara {
+            get {
+                object obj = ResourceManager.GetObject("naclestrutara", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
