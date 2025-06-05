@@ -63,6 +63,16 @@ namespace picturebox_componentes2.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap hidrogenio {
+            get {
+                object obj = ResourceManager.GetObject("hidrogenio", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap igneasss {
             get {
                 object obj = ResourceManager.GetObject("igneasss", resourceCulture);
@@ -76,6 +86,26 @@ namespace picturebox_componentes2.Properties {
         internal static System.Drawing.Bitmap metamorfica {
             get {
                 object obj = ResourceManager.GetObject("metamorfica", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Nacl {
+            get {
+                object obj = ResourceManager.GetObject("Nacl", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap oxigenio {
+            get {
+                object obj = ResourceManager.GetObject("oxigenio", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
